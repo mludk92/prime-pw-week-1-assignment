@@ -29,3 +29,4 @@ adds the changes done to a point where they can be committed
 
 # 10 - What is the command to push your committed changes to your repo on GitHub?
 adds changes from forked document, and pushes it back to the orignal git repo. 
+git push origin main 
