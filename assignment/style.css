@@ -1,17 +1,20 @@
 /* Give your page a fun background color */
 body { 
-    background-color: darkcyan;
+    background-image:radial-gradient(Blue,gold,red)
+    
 }
 
 /* Make the header and footer a different color from the background */
 header {
-    background-color: rgb(158, 184, 175);
+    background-color: rgb(223, 205, 129);
     border-radius: 45px;
     
     
 }
 footer {
     background-color: rgb(158, 184, 175);
+    margin-left: 25%;
+    margin-right: 25%;
 }
 /* Align the h1 containing your name in the center of the header*/
 h1 {
@@ -24,8 +27,9 @@ h1 {
 /* Make your p tag a different color and italic */
 p {
     
-    background-color: goldenrod;
+    background-color: rgb(113, 82, 2);
     font-style: italic;
+    text-align: center;
 }
 ul {
     
