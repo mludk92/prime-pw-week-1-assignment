@@ -1,10 +1,55 @@
 /* Give your page a fun background color */
+body { 
+    background-color: darkcyan;
+}
 
 /* Make the header and footer a different color from the background */
-
+header {
+    background-color: rgb(158, 184, 175);
+    border-radius: 45px;
+    
+    
+}
+footer {
+    background-color: rgb(158, 184, 175);
+}
 /* Align the h1 containing your name in the center of the header*/
+h1 {
+    text-align: center;
+    font-size: 40px;
+    padding-top: 10px;
+    
+}
 
 /* Make your p tag a different color and italic */
+p {
+    
+    background-color: goldenrod;
+    font-style: italic;
+}
+ul {
+    
+    list-style-type: '!!! ';
+    list-style-position: inside;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+#radial {
+    text-align: left;
+    list-style-type: '-- ';
+    
+}
+#pic {
+    width: 50%;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-style: inset;
+    border-width: 15px;
+    border-color: silver;
+    border-radius: 45px;
+    
+}
 
 /* Put a border around your image */
 
